@@ -6,5 +6,6 @@ int main()
   int j = 0;
   printf("%d %d",i,j);
   int c = 0;
+  int d = 0;
   return 0;
 }
