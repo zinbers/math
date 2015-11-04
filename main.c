@@ -10,6 +10,7 @@ int main()
     int e = 0;
     int f = 0;
     int g = 0;
-    /**/
+    /*sss*/
+
   return 0;
 }
