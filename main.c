@@ -13,5 +13,6 @@ int main()
     /*sss*/
     ss
     int g = 0;
+    ss
   return 0;
 }
